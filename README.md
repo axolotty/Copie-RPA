@@ -1,4 +1,4 @@
-# 📋 Copie-RPA — Copie automatique de fichiers RPA
+# 📋 Copie-RPA - Copie automatique de fichiers RPA
 
 ![Batch](https://img.shields.io/badge/Batch-Windows-0078D6?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge)
